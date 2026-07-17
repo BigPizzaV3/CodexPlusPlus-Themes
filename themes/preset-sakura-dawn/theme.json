@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-sakura-dawn",
+  "name": "樱粉晨曦",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "把喜欢的粉色调进工作台，温柔但不刺眼。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "DREAM SKIN ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "colors": {
+    "background": "#fdf3f5",
+    "panel": "#ffffff",
+    "panelAlt": "#fff5f8",
+    "accent": "#f0607a",
+    "accentAlt": "#f7889c",
+    "secondary": "#f5a3b3",
+    "highlight": "#d84a68",
+    "text": "#3a2a30",
+    "muted": "#9a8288",
+    "line": "rgba(240, 96, 122, .22)"
+  }
+}

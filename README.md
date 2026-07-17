@@ -12,6 +12,7 @@ Codex++ 的社区主题仓库。Codex++ 可以直接读取本仓库的静态清�
 - `Caishen Lite / Max / Readable`、`Export Night`、`Global Founder Bright`、`Mythic Guardian Noir`：来自 ChannelerH/codex-skin-packs 的原创公开主题包。
 - `Codex Snow Skin`：迁移上游冰雪图片和 CSS 色彩令牌。
 - `Glass Vision`：迁移上游水晶星球图片和设计色彩令牌。
+- `午夜极光 / 琥珀黄昏 / 森野薄雾 / 赛博霓虹 / 樱粉晨曦`：来自 gh283249008/Codex-Cidala-Tiger-Skin 的 MIT 程序化抽象预设，不包含该项目中未授权再分发的角色主题。
 
 Codex++ 主题包格式只包含图片、文字和色彩配置。Snow 与 Glass Vision 市场版本不包含原项目的完整 CSS、布局扩展或独立注入脚本，完整视觉实现请查看各主题的 `source_url`。
 
