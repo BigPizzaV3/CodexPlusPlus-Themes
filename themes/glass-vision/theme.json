@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "glass-vision",
+  "name": "Glass Vision",
+  "brandSubtitle": "GLASS VISION",
+  "tagline": "银蓝水晶与星轨交织的通透工作台。",
+  "projectPrefix": "星轨 · ",
+  "projectLabel": "✦  选择项目",
+  "statusText": "VISION ONLINE",
+  "quote": "FOCUS THROUGH LIGHT",
+  "colors": {
+    "background": "#e3f3ff",
+    "panel": "rgba(250, 254, 255, 0.84)",
+    "panelAlt": "rgba(226, 244, 255, 0.72)",
+    "accent": "#4b91d8",
+    "accentAlt": "#83d8f2",
+    "secondary": "#69b8ed",
+    "highlight": "#8de6ff",
+    "text": "#18334f",
+    "muted": "#496985",
+    "line": "rgba(105, 169, 216, 0.34)"
+  }
+}

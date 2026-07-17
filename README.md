@@ -6,6 +6,15 @@ Codex++ 的社区主题仓库。Codex++ 可以直接读取本仓库的静态清�
 
 在 Codex++ 中打开“皮肤管理”，进入“主题市场”，点击“刷新市场”后选择主题安装。安装完成后，主题会进入“我的主题”，由用户手动应用。
 
+## 当前主题
+
+- `Dream Skin 原版`：来自 Fei-Away/Codex-Dream-Skin。
+- `Caishen Lite / Max / Readable`、`Export Night`、`Global Founder Bright`、`Mythic Guardian Noir`：来自 ChannelerH/codex-skin-packs 的原创公开主题包。
+- `Codex Snow Skin`：迁移上游冰雪图片和 CSS 色彩令牌。
+- `Glass Vision`：迁移上游水晶星球图片和设计色彩令牌。
+
+Codex++ 主题包格式只包含图片、文字和色彩配置。Snow 与 Glass Vision 市场版本不包含原项目的完整 CSS、布局扩展或独立注入脚本，完整视觉实现请查看各主题的 `source_url`。
+
 ## 投稿主题
 
 欢迎通过 Pull Request 投稿。开始前请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)，并确保：
@@ -36,4 +45,4 @@ themes/
 
 仓库工具和清单结构采用 [MIT License](./LICENSE)。每个主题及其素材以主题目录内的 `LICENSE.md` 为准。
 
-首个演示主题基于 [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)，保留原项目署名与素材来源说明。
+所有迁移主题均在各自目录保留作者、来源、迁移基准和上游许可证；不满足公开再分发条件的候选素材不会收入本仓库。

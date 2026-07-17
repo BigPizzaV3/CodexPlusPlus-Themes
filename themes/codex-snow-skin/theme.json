@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "codex-snow-skin",
+  "name": "Codex Snow Skin",
+  "brandSubtitle": "SNOW WORKSPACE",
+  "tagline": "冰原留白，让专注落在代码上。",
+  "projectPrefix": "雪境 · ",
+  "projectLabel": "❄  选择项目",
+  "statusText": "SNOW ONLINE",
+  "quote": "BUILD IN CLEAR AIR",
+  "colors": {
+    "background": "#dff3ff",
+    "panel": "rgba(248, 253, 255, 0.94)",
+    "panelAlt": "rgba(221, 242, 255, 0.82)",
+    "accent": "#1f7fe8",
+    "accentAlt": "#5f9dd3",
+    "secondary": "#83cfff",
+    "highlight": "#164a7a",
+    "text": "#10263f",
+    "muted": "#4d7fa8",
+    "line": "rgba(99, 174, 232, 0.34)"
+  }
+}
