@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updated_at": "2026-07-17",
+  "themes": [
+    {
+      "id": "dream-skin-original",
+      "name": "Dream Skin 原版",
+      "version": "1.0.0",
+      "author": "Fei-Away",
+      "description": "Codex-Dream-Skin 随项目分发的红白演示主题。",
+      "license": "MIT / generated project asset",
+      "source_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "tags": ["原版", "红白", "亮色"],
+      "theme": "themes/dream-skin-original/theme.json",
+      "image": "themes/dream-skin-original/image.png",
+      "preview": "themes/dream-skin-original/preview.jpg",
+      "theme_sha256": "181e8aafa17917d03d2c1e9b8e0337a328913c9ad3cf5eed44c68d3566538d46",
+      "image_sha256": "31bde93bb02d6723e0b6aa0ead675577604120acb0a6799163dd37f5cdd0a08e"
+    }
+  ]
+}
