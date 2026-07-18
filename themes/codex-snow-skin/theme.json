@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "codex-snow-skin",
   "name": "Codex Snow Skin",
+  "stylePreset": "codex-snow",
   "brandSubtitle": "SNOW WORKSPACE",
   "tagline": "冰原留白，让专注落在代码上。",
   "projectPrefix": "雪境 · ",

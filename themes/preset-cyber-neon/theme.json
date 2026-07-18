@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "preset-cyber-neon",
   "name": "赛博霓虹",
+  "stylePreset": "cyber-neon",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "近黑底色上的品红与青，高对比的赛博感。",
   "projectPrefix": "选择项目 · ",

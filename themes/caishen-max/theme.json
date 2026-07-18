@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "caishen-max",
   "name": "Caishen Max",
+  "stylePreset": "caishen-max",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "财气更重的财神皮肤，适合展示和短时沉浸。",
   "projectPrefix": "选择项目 · ",

@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "caishen-readable",
   "name": "Caishen Readable",
+  "stylePreset": "caishen-readable",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "柔和财神皮肤，保留财气但优先保证阅读区干净。",
   "projectPrefix": "选择项目 · ",

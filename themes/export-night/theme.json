@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "export-night",
   "name": "Export Night",
+  "stylePreset": "export-night",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "深色出海运营皮肤，适合夜间增长和数据工作。",
   "projectPrefix": "project · ",

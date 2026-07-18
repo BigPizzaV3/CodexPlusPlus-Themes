@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "preset-midnight-aurora",
   "name": "午夜极光",
+  "stylePreset": "midnight-aurora",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "深蓝夜幕里流动的极光，安静又有张力。",
   "projectPrefix": "选择项目 · ",

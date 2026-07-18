@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "glass-vision",
   "name": "Glass Vision",
+  "stylePreset": "glass-vision",
   "brandSubtitle": "GLASS VISION",
   "tagline": "银蓝水晶与星轨交织的通透工作台。",
   "projectPrefix": "星轨 · ",

@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "preset-sakura-dawn",
   "name": "樱粉晨曦",
+  "stylePreset": "sakura-dawn",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "把喜欢的粉色调进工作台，温柔但不刺眼。",
   "projectPrefix": "选择项目 · ",

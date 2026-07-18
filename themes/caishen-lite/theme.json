@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "caishen-lite",
   "name": "Caishen Lite",
+  "stylePreset": "caishen-lite",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "浅色财神皮肤，财气明显但不过度压住文字。",
   "projectPrefix": "选择项目 · ",

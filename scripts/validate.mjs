@@ -72,6 +72,9 @@ for (const item of index.themes) {
   if (theme.schemaVersion !== 1 || theme.id !== item.id || theme.name !== item.name) {
     fail(`${item.id} theme identity does not match index.json`);
   }
+  if (typeof theme.stylePreset !== "string" || !idPattern.test(theme.stylePreset)) {
+    fail(`${item.id} stylePreset is missing or invalid`);
+  }
   if (!theme.colors || requiredColors.some((key) => typeof theme.colors[key] !== "string" || !theme.colors[key])) {
     fail(`${item.id} theme colors are incomplete`);
   }

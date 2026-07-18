@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "mythic-guardian-noir",
   "name": "Mythic Guardian Noir",
+  "stylePreset": "mythic-guardian-noir",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "暗黑神话感皮肤，左侧留暗场给代码和对话。",
   "projectPrefix": "project · ",

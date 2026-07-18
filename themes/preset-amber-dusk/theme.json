@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "preset-amber-dusk",
   "name": "琥珀黄昏",
+  "stylePreset": "amber-dusk",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "暖金色的黄昏光，适合长时间的深夜编码。",
   "projectPrefix": "选择项目 · ",

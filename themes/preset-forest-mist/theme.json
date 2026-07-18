@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "preset-forest-mist",
   "name": "森野薄雾",
+  "stylePreset": "forest-mist",
   "brandSubtitle": "CODEX DREAM SKIN",
   "tagline": "墨绿与晨雾，给屏幕一点自然的呼吸。",
   "projectPrefix": "选择项目 · ",
