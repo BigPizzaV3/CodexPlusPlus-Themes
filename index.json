@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-cloud-ascent",
+      "name": "云上仙途",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "云海灵脉中的东方修行之旅。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-cloud-ascent/theme.json",
+      "image": "themes/dreamskin-cloud-ascent/image.png",
+      "preview": "themes/dreamskin-cloud-ascent/preview.jpg",
+      "theme_sha256": "e939df561f00a22ed045b2f79b6aefed4d9de1edff29df8e94a50468505d6105",
+      "image_sha256": "1b59f16ead4dac2cf51484afba7669446017a992198fe0ad596308c6687c648e"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-cloud-ascent",
+  "name": "云上仙途",
+  "stylePreset": "dreamskin-cloud-ascent",
+  "brandSubtitle": "CLOUD ASCENT",
+  "tagline": "云海灵脉中的东方修行之旅。",
+  "projectPrefix": "云上项目 ·",
+  "projectLabel": "选择云上项目",
+  "statusText": "JADE CURRENT ONLINE",
+  "quote": "RISE ABOVE THE CLOUDS",
+  "colors": {
+    "background": "#f1f7f3",
+    "panel": "#e2eee7",
+    "panelAlt": "#e2eee7",
+    "accent": "#69b99a",
+    "accentAlt": "#9bd8ba",
+    "secondary": "#73b8c2",
+    "highlight": "#d9b86c",
+    "text": "#24332e",
+    "muted": "#657b73",
+    "line": "#69b99a"
+  }
+}
