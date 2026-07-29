@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-idea-engine",
+  "name": "灵感小宇宙",
+  "stylePreset": "dreamskin-idea-engine",
+  "brandSubtitle": "IDEA ENGINE",
+  "tagline": "青蓝、珊瑚与明黄碰撞，为快速原型补充能量。",
+  "projectPrefix": "灵感项目 ·",
+  "projectLabel": "选择灵感项目",
+  "statusText": "IDEA ENGINE ONLINE",
+  "quote": "TURN ENERGY INTO IDEAS",
+  "colors": {
+    "background": "#f1faf8",
+    "panel": "#e2f3f0",
+    "panelAlt": "#e2f3f0",
+    "accent": "#2dbdb7",
+    "accentAlt": "#f0c928",
+    "secondary": "#53a9df",
+    "highlight": "#ef7064",
+    "text": "#173033",
+    "muted": "#567a77",
+    "line": "#2dbdb7"
+  }
+}
