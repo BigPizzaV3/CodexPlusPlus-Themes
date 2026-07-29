@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-visual-studio",
+  "name": "视觉设计",
+  "stylePreset": "dreamskin-visual-studio",
+  "brandSubtitle": "VISUAL STUDIO",
+  "tagline": "为构图、色彩与细节判断保持敏锐。",
+  "projectPrefix": "设计项目 ·",
+  "projectLabel": "选择设计项目",
+  "statusText": "CREATIVE FIELD ONLINE",
+  "quote": "MAKE THE IDEA VISIBLE",
+  "colors": {
+    "background": "#f7f6f1",
+    "panel": "#ecebe6",
+    "panelAlt": "#ecebe6",
+    "accent": "#ec4d3d",
+    "accentAlt": "#2cc7c9",
+    "secondary": "#4fa46d",
+    "highlight": "#efc93f",
+    "text": "#20211f",
+    "muted": "#686b66",
+    "line": "#ec4d3d"
+  }
+}

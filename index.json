@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-visual-studio",
+      "name": "视觉设计",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为构图、色彩与细节判断保持敏锐。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-visual-studio/theme.json",
+      "image": "themes/dreamskin-visual-studio/image.png",
+      "preview": "themes/dreamskin-visual-studio/preview.jpg",
+      "theme_sha256": "3748df67e12660a3a482150f0b71a9a210b41c8ff5d5e57ca3c3661bb2cbb8fc",
+      "image_sha256": "5e83bf172c49b0ee8d7e76f170d04f3c8bcb00d8f8e8d7f35fdc44449c90eb42"
     }
   ]
 }
