@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-ink-horizon",
+      "name": "墨影江湖",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "水墨留白与凌厉刀光。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-ink-horizon/theme.json",
+      "image": "themes/dreamskin-ink-horizon/image.png",
+      "preview": "themes/dreamskin-ink-horizon/preview.jpg",
+      "theme_sha256": "ad68253b2394a6272c4dcc497e8767c67d0a3969dd327242611a2cb0d9437f37",
+      "image_sha256": "25f02d34ef17a54be6d0cf2688345facb4e2f872af307c341fad1180444095fb"
     }
   ]
 }

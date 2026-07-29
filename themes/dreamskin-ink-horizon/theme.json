@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-ink-horizon",
+  "name": "墨影江湖",
+  "stylePreset": "dreamskin-ink-horizon",
+  "brandSubtitle": "INK HORIZON",
+  "tagline": "水墨留白与凌厉刀光。",
+  "projectPrefix": "江湖项目 ·",
+  "projectLabel": "选择江湖项目",
+  "statusText": "INK CURRENT ONLINE",
+  "quote": "MOVE BEFORE THE INK DRIES",
+  "colors": {
+    "background": "#f2f1ec",
+    "panel": "#e7e6e0",
+    "panelAlt": "#e7e6e0",
+    "accent": "#d1483f",
+    "accentAlt": "#ef766b",
+    "secondary": "#8f9ea3",
+    "highlight": "#be3b34",
+    "text": "#282a2b",
+    "muted": "#707373",
+    "line": "#d1483f"
+  }
+}
