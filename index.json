@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-scholar-archive",
+      "name": "研究写作",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为阅读、考据与长文组织保留沉静。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-scholar-archive/theme.json",
+      "image": "themes/dreamskin-scholar-archive/image.png",
+      "preview": "themes/dreamskin-scholar-archive/preview.jpg",
+      "theme_sha256": "fea00acb938a736d53ee49661f19d9e053898455e2aa2218011f38d2c50f1cc4",
+      "image_sha256": "790edf2cc3cb3bda5855eac2f8bf5c9caed990d8e639ac17cd66f6ad30f24a09"
     }
   ]
 }
