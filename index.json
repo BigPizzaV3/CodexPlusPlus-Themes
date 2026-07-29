@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-cyan-rhythm",
+      "name": "青蓝律动",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "青粉电子音浪与全息舞台，保持轻快而明亮的节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-cyan-rhythm/theme.json",
+      "image": "themes/dreamskin-cyan-rhythm/image.png",
+      "preview": "themes/dreamskin-cyan-rhythm/preview.jpg",
+      "theme_sha256": "e0209f909d32835459525d98df25b874996eeda88bd3e29d6a79aa1307b7f26e",
+      "image_sha256": "9dcec4069c1cb70f674f4b595280714de8f9dcdc322b2db762100a26ef82b13a"
     }
   ]
 }
