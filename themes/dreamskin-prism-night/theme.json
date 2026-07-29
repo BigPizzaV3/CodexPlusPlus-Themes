@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-prism-night",
+  "name": "紫夜限定",
+  "stylePreset": "dreamskin-prism-night",
+  "brandSubtitle": "PRISM NIGHT",
+  "tagline": "蓝紫星夜、晶体蝴蝶与微光轨道，适合沉浸工作。",
+  "projectPrefix": "星夜项目 ·",
+  "projectLabel": "选择星夜项目",
+  "statusText": "PRISM NIGHT ONLINE",
+  "quote": "FOLLOW THE LIGHT",
+  "colors": {
+    "background": "#090d38",
+    "panel": "#12164b",
+    "panelAlt": "#1b225f",
+    "accent": "#7b78ff",
+    "accentAlt": "#c16ef4",
+    "secondary": "#37c9ef",
+    "highlight": "#da55dc",
+    "text": "#f4f2ff",
+    "muted": "#aaa9dc",
+    "line": "#7b78ff"
+  }
+}
