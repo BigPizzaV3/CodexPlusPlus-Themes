@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-story-flow",
+  "name": "内容创作",
+  "stylePreset": "dreamskin-story-flow",
+  "brandSubtitle": "STORY FLOW",
+  "tagline": "让素材、节奏与叙事持续流动。",
+  "projectPrefix": "内容项目 ·",
+  "projectLabel": "选择内容项目",
+  "statusText": "STORY ROOM ONLINE",
+  "quote": "FOLLOW THE THREAD",
+  "colors": {
+    "background": "#fff4ef",
+    "panel": "#f9e5df",
+    "panelAlt": "#f9e5df",
+    "accent": "#ef705f",
+    "accentAlt": "#efad3d",
+    "secondary": "#35bfc0",
+    "highlight": "#d84991",
+    "text": "#382129",
+    "muted": "#7e5d66",
+    "line": "#ef705f"
+  }
+}

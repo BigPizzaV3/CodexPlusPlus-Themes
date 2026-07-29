@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-story-flow",
+      "name": "内容创作",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "让素材、节奏与叙事持续流动。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-story-flow/theme.json",
+      "image": "themes/dreamskin-story-flow/image.png",
+      "preview": "themes/dreamskin-story-flow/preview.jpg",
+      "theme_sha256": "dfa59c881e3e3cfb65903a698fb0407313d6c3ea1a2b8ca252a8bc4ad4cb41d5",
+      "image_sha256": "42e29ea96c0c512c0cddfefad4b7572f4a4a4431b64ba2a1cb98d679c50bf267"
     }
   ]
 }
