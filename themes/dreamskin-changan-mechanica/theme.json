@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-changan-mechanica",
+  "name": "长安机关",
+  "stylePreset": "dreamskin-changan-mechanica",
+  "brandSubtitle": "CHANG'AN MECHANICA",
+  "tagline": "盛唐幻想与精密机关。",
+  "projectPrefix": "机关项目 ·",
+  "projectLabel": "选择机关项目",
+  "statusText": "MECHANISM ONLINE",
+  "quote": "MAKE EVERY PART MATTER",
+  "colors": {
+    "background": "#fbf2df",
+    "panel": "#f2e3ca",
+    "panelAlt": "#f2e3ca",
+    "accent": "#c83e2e",
+    "accentAlt": "#d9a94f",
+    "secondary": "#59798b",
+    "highlight": "#9d2f28",
+    "text": "#38231a",
+    "muted": "#7d664f",
+    "line": "#d9a94f"
+  }
+}
