@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-orbital-forge",
+      "name": "星穹机甲",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "东方科幻与重型机械结构。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-orbital-forge/theme.json",
+      "image": "themes/dreamskin-orbital-forge/image.png",
+      "preview": "themes/dreamskin-orbital-forge/preview.jpg",
+      "theme_sha256": "cc59214ea1069d351363bb04824870f9d3136c1ff3564ed36582ab52ecae7938",
+      "image_sha256": "af0e66dfc05a7ef0aabe1b79ac64de5c7bfb69da00d4c0c57fbd25a8ee2c7c74"
     }
   ]
 }

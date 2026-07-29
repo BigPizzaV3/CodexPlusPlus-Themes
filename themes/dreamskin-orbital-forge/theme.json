@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-orbital-forge",
+  "name": "星穹机甲",
+  "stylePreset": "dreamskin-orbital-forge",
+  "brandSubtitle": "ORBITAL FORGE",
+  "tagline": "东方科幻与重型机械结构。",
+  "projectPrefix": "星穹项目 ·",
+  "projectLabel": "选择星穹项目",
+  "statusText": "HANGAR SYSTEMS ONLINE",
+  "quote": "BUILD FOR THE DISTANCE",
+  "colors": {
+    "background": "#0b1118",
+    "panel": "#111c26",
+    "panelAlt": "#1b2b36",
+    "accent": "#d84b45",
+    "accentAlt": "#f07a70",
+    "secondary": "#3ea5bd",
+    "highlight": "#b92f38",
+    "text": "#edf6fa",
+    "muted": "#91a9b5",
+    "line": "#3ea5bd"
+  }
+}
