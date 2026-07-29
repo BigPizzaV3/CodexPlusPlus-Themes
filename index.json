@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-deep-work-mode",
+      "name": "深度编码",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为长时间编码保留清晰层次。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-deep-work-mode/theme.json",
+      "image": "themes/dreamskin-deep-work-mode/image.png",
+      "preview": "themes/dreamskin-deep-work-mode/preview.jpg",
+      "theme_sha256": "53099700be1633aa6ee6ad7d391593db10c4ac347bbd434ceafa7e748d73cf4f",
+      "image_sha256": "fe50ede7448c20df0b7bc7269761fcc5fcb3a9e7554da738cd784bcabf54c666"
     }
   ]
 }

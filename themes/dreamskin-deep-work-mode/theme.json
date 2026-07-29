@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-deep-work-mode",
+  "name": "深度编码",
+  "stylePreset": "dreamskin-deep-work-mode",
+  "brandSubtitle": "DEEP WORK MODE",
+  "tagline": "为长时间编码保留清晰层次。",
+  "projectPrefix": "代码项目 ·",
+  "projectLabel": "选择代码项目",
+  "statusText": "FOCUS SESSION ONLINE",
+  "quote": "STAY WITH THE PROBLEM",
+  "colors": {
+    "background": "#071313",
+    "panel": "#0b2020",
+    "panelAlt": "#123030",
+    "accent": "#38d996",
+    "accentAlt": "#82f4ba",
+    "secondary": "#31bfce",
+    "highlight": "#e0a94a",
+    "text": "#effff8",
+    "muted": "#91bdb0",
+    "line": "#38d996"
+  }
+}
