@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-mountain-sea",
+      "name": "山海异闻",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "古代博物纹理与山海幻想。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-mountain-sea/theme.json",
+      "image": "themes/dreamskin-mountain-sea/image.png",
+      "preview": "themes/dreamskin-mountain-sea/preview.jpg",
+      "theme_sha256": "ff69dba308d88fb21a210a7a3015a7f1949b48ac248f25957b4c1e2a7f2a3fd8",
+      "image_sha256": "4c8a59386408f487708eea01b6fb45d1aee412f3d135d95d04e2bd689954c1bb"
     }
   ]
 }
