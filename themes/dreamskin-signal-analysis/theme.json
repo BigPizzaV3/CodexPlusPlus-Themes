@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-signal-analysis",
+  "name": "数据洞察",
+  "stylePreset": "dreamskin-signal-analysis",
+  "brandSubtitle": "SIGNAL ANALYSIS",
+  "tagline": "在噪声中寻找稳定信号。",
+  "projectPrefix": "分析项目 ·",
+  "projectLabel": "选择分析项目",
+  "statusText": "SIGNAL LOCKED",
+  "quote": "FIND THE SIGNAL",
+  "colors": {
+    "background": "#071720",
+    "panel": "#0c2530",
+    "panelAlt": "#123744",
+    "accent": "#29c3ba",
+    "accentAlt": "#73e4d7",
+    "secondary": "#4b9be2",
+    "highlight": "#e45d5d",
+    "text": "#effcff",
+    "muted": "#94bcc4",
+    "line": "#29c3ba"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-signal-analysis",
+      "name": "数据洞察",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "在噪声中寻找稳定信号。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-signal-analysis/theme.json",
+      "image": "themes/dreamskin-signal-analysis/image.png",
+      "preview": "themes/dreamskin-signal-analysis/preview.jpg",
+      "theme_sha256": "f5793139591606e229d3640c927cc446c1b526370b9c0acba5e181fd7760764d",
+      "image_sha256": "09c288a9cf884056622e0351081e3b7a3aa9417a5528b6fdcd3a8a6c099ae9fa"
     }
   ]
 }
