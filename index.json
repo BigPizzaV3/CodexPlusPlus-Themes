@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-reliability-watch",
+      "name": "运维值守",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "稳定、警觉的持续观测模式。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-reliability-watch/theme.json",
+      "image": "themes/dreamskin-reliability-watch/image.png",
+      "preview": "themes/dreamskin-reliability-watch/preview.jpg",
+      "theme_sha256": "2f6d445c9968901c1da4d1a8bc9d09857e07eca37570802b910c4266bd1eb36b",
+      "image_sha256": "f940956b9fd94c6e079c9e2c4b2b087e8fce95407fa33206352e8cb7e314c0af"
     }
   ]
 }
