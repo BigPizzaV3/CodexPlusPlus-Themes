@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-red-horizon",
+      "name": "红白科幻",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "克制的红白未来地平线，适合清晰、专注的工作节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-red-horizon/theme.json",
+      "image": "themes/dreamskin-red-horizon/image.png",
+      "preview": "themes/dreamskin-red-horizon/preview.jpg",
+      "theme_sha256": "8cc4289962869fce3567db8dd5168cb26e0102202317a11c92a4c07851c0db5a",
+      "image_sha256": "d548117583e8584116bfbc6e64c1a1c38773ba06e1ce7fabcbc84caa4a6d6996"
     }
   ]
 }

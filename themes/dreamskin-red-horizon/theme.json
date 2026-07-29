@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-red-horizon",
+  "name": "红白科幻",
+  "stylePreset": "dreamskin-red-horizon",
+  "brandSubtitle": "RED HORIZON",
+  "tagline": "克制的红白未来地平线，适合清晰、专注的工作节奏。",
+  "projectPrefix": "未来项目 ·",
+  "projectLabel": "选择未来项目",
+  "statusText": "HORIZON ONLINE",
+  "quote": "BUILD THE NEXT HORIZON",
+  "colors": {
+    "background": "#fff8f8",
+    "panel": "#fcebed",
+    "panelAlt": "#fcebed",
+    "accent": "#ef4b50",
+    "accentAlt": "#ff8080",
+    "secondary": "#f2a2a4",
+    "highlight": "#be222c",
+    "text": "#2d1719",
+    "muted": "#72575a",
+    "line": "#ef4b50"
+  }
+}
