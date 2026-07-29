@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-blush-garden",
+  "name": "粉系定制",
+  "stylePreset": "dreamskin-blush-garden",
+  "brandSubtitle": "BLUSH GARDEN",
+  "tagline": "柔粉玫瑰与轻盈花瓣，让工作台保持温柔明亮。",
+  "projectPrefix": "花园项目 ·",
+  "projectLabel": "选择花园项目",
+  "statusText": "BLUSH GARDEN ONLINE",
+  "quote": "CREATE WITH GRACE",
+  "colors": {
+    "background": "#fff5f7",
+    "panel": "#fce7eb",
+    "panelAlt": "#fce7eb",
+    "accent": "#e98b9c",
+    "accentAlt": "#f5b4bf",
+    "secondary": "#f2c7cf",
+    "highlight": "#c85f76",
+    "text": "#321d22",
+    "muted": "#7a5c63",
+    "line": "#e98b9c"
+  }
+}
