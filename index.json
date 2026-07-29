@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-delivery-rhythm",
+      "name": "项目推进",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "把依赖、里程碑和行动排成节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-delivery-rhythm/theme.json",
+      "image": "themes/dreamskin-delivery-rhythm/image.png",
+      "preview": "themes/dreamskin-delivery-rhythm/preview.jpg",
+      "theme_sha256": "e834995b0f2b341497028adf45ff5508d41b872ee7cad3076ec40a10ca08df83",
+      "image_sha256": "185e663b1b9d9cbf248f560ba1d95cc0220fc534a616fbf7c911af74fbdbe7ac"
     }
   ]
 }
