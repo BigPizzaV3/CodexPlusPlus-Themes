@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-scarlet-myth",
+      "name": "赤焰神话",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "上古火纹与祭器质感。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-scarlet-myth/theme.json",
+      "image": "themes/dreamskin-scarlet-myth/image.png",
+      "preview": "themes/dreamskin-scarlet-myth/preview.jpg",
+      "theme_sha256": "64a4a28492a8943adf123098446c7cef6b9f1fcf132e9060542f4971c5e14ade",
+      "image_sha256": "996d9f93892189901f529cbd50b1fe505f1d3fe12f7350b676b4c37f19501457"
     }
   ]
 }
