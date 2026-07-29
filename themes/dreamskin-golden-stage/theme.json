@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-golden-stage",
+  "name": "舞台黑金",
+  "stylePreset": "dreamskin-golden-stage",
+  "brandSubtitle": "GOLDEN STAGE",
+  "tagline": "哑光黑、香槟金与舞台光束，让视觉焦点更集中。",
+  "projectPrefix": "舞台项目 ·",
+  "projectLabel": "选择舞台项目",
+  "statusText": "GOLDEN STAGE ONLINE",
+  "quote": "OWN THE STAGE",
+  "colors": {
+    "background": "#0c0b09",
+    "panel": "#16130f",
+    "panelAlt": "#211c15",
+    "accent": "#d6ad5c",
+    "accentAlt": "#f0cf86",
+    "secondary": "#b79458",
+    "highlight": "#8f6a2f",
+    "text": "#fff9ea",
+    "muted": "#c5b89c",
+    "line": "#d6ad5c"
+  }
+}
