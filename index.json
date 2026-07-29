@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-product-clarity",
+      "name": "产品策划",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "从问题、路径到决策的结构化工作台。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-product-clarity/theme.json",
+      "image": "themes/dreamskin-product-clarity/image.png",
+      "preview": "themes/dreamskin-product-clarity/preview.jpg",
+      "theme_sha256": "c0ecd8b045741db841dfa7aac0627bd64de279f1c45343ffadd7e218ad66deb6",
+      "image_sha256": "98e7e4e1229fc200f16ea37a0bcdf78cb5a2e892291ccb4388edb48a0e3f34dd"
     }
   ]
 }
