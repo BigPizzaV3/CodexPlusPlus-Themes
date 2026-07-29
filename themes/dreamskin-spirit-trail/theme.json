@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-spirit-trail",
+  "name": "灵宠奇旅",
+  "stylePreset": "dreamskin-spirit-trail",
+  "brandSubtitle": "SPIRIT TRAIL",
+  "tagline": "自然灵性与温暖轻冒险。",
+  "projectPrefix": "奇旅项目 ·",
+  "projectLabel": "选择奇旅项目",
+  "statusText": "TRAIL LIGHTS ONLINE",
+  "quote": "FOLLOW THE SMALL LIGHTS",
+  "colors": {
+    "background": "#f2f8ec",
+    "panel": "#e5f0df",
+    "panelAlt": "#e5f0df",
+    "accent": "#67b878",
+    "accentAlt": "#9ad99a",
+    "secondary": "#63a8c1",
+    "highlight": "#e88968",
+    "text": "#29342b",
+    "muted": "#6b7c6c",
+    "line": "#67b878"
+  }
+}
