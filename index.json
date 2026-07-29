@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-29",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,25 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "dreamskin-neon-night-watch",
+      "name": "霓虹巡夜",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "东方都市异能与夜行霓虹。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-neon-night-watch/theme.json",
+      "image": "themes/dreamskin-neon-night-watch/image.png",
+      "preview": "themes/dreamskin-neon-night-watch/preview.jpg",
+      "theme_sha256": "8d00096e9e8b89b4f78243b31592bbd2a0132284aa54b002b8a4ca5a55f66006",
+      "image_sha256": "3c63726ca6a9d2e0e2621e541dbaf60849f38fce9af8c0649f085704754cba12"
     }
   ]
 }
