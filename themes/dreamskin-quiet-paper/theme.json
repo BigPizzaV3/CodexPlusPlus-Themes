@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-quiet-paper",
+  "name": "清透定制",
+  "stylePreset": "dreamskin-quiet-paper",
+  "brandSubtitle": "QUIET PAPER",
+  "tagline": "象牙白、鼠尾草绿与纸鹤，留出安静的思考空间。",
+  "projectPrefix": "清透项目 ·",
+  "projectLabel": "选择清透项目",
+  "statusText": "QUIET PAPER ONLINE",
+  "quote": "MAKE SPACE TO THINK",
+  "colors": {
+    "background": "#f5f6ee",
+    "panel": "#e9ede1",
+    "panelAlt": "#e9ede1",
+    "accent": "#91a176",
+    "accentAlt": "#b1bd91",
+    "secondary": "#c7ceb0",
+    "highlight": "#6f8057",
+    "text": "#252a20",
+    "muted": "#68705d",
+    "line": "#91a176"
+  }
+}
