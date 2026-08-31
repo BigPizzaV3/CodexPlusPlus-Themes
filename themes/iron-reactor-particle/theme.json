@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "iron-reactor-particle",
+  "name": "Iron Reactor Particle",
+  "stylePreset": "mythic-guardian-noir",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "暗色反应堆机库与淡色正面粒子装甲。",
+  "projectPrefix": "project · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "REACTOR ONLINE",
+  "quote": "BUILD THE FUTURE",
+  "colors": {
+    "background": "#04070a",
+    "panel": "rgba(5, 10, 15, 0.76)",
+    "panelAlt": "rgba(5, 10, 15, 0.30)",
+    "accent": "#65deee",
+    "accentAlt": "#a8f1fa",
+    "secondary": "#d2a85e",
+    "highlight": "#8c2f2a",
+    "text": "#edf9fc",
+    "muted": "#9db6bd",
+    "line": "rgba(101, 222, 238, 0.24)"
+  }
+}

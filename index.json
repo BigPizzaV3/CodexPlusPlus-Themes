@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-08-31",
   "themes": [
     {
       "id": "dream-skin-original",
@@ -211,6 +211,21 @@
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "iron-reactor-particle",
+      "name": "Iron Reactor Particle",
+      "version": "1.0.0",
+      "author": "sks-curry",
+      "description": "暗色反应堆机库、青金粒子装甲与分层半透明面板主题。",
+      "license": "CC BY 4.0 / MIT",
+      "source_url": "https://github.com/sks-curry/iron-reactor-codex-skin",
+      "tags": ["原创", "暗色", "科幻", "粒子"],
+      "theme": "themes/iron-reactor-particle/theme.json",
+      "image": "themes/iron-reactor-particle/image.png",
+      "preview": "themes/iron-reactor-particle/preview.jpg",
+      "theme_sha256": "968384479b5b337e1fd045872b0b0c4a7117ebef816f857a4991fdfc92e42100",
+      "image_sha256": "2409a351c91df663cb17690db4bf088d93e7d5ccfdf04e206a36acb323b85465"
     }
   ]
 }
