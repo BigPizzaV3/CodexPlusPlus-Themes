@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-product-clarity",
+  "name": "产品策划",
+  "stylePreset": "dreamskin-product-clarity",
+  "brandSubtitle": "PRODUCT CLARITY",
+  "tagline": "从问题、路径到决策的结构化工作台。",
+  "projectPrefix": "产品项目 ·",
+  "projectLabel": "选择产品项目",
+  "statusText": "DECISION MODE ONLINE",
+  "quote": "MAKE THE NEXT DECISION CLEAR",
+  "colors": {
+    "background": "#f4f5f7",
+    "panel": "#e8ebef",
+    "panelAlt": "#e8ebef",
+    "accent": "#4f73d8",
+    "accentAlt": "#ef6b55",
+    "secondary": "#5ca2b7",
+    "highlight": "#d99b37",
+    "text": "#252931",
+    "muted": "#69717e",
+    "line": "#6f88ca"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-scarlet-myth",
+  "name": "赤焰神话",
+  "stylePreset": "dreamskin-scarlet-myth",
+  "brandSubtitle": "SCARLET MYTH",
+  "tagline": "上古火纹与祭器质感。",
+  "projectPrefix": "神话项目 ·",
+  "projectLabel": "选择神话项目",
+  "statusText": "EMBER ALTAR ONLINE",
+  "quote": "CARRY THE FIRST FIRE",
+  "colors": {
+    "background": "#1a0d09",
+    "panel": "#2a1510",
+    "panelAlt": "#3d2117",
+    "accent": "#df482f",
+    "accentAlt": "#f18a3c",
+    "secondary": "#b6783f",
+    "highlight": "#a72824",
+    "text": "#fff1df",
+    "muted": "#c7a58f",
+    "line": "#df482f"
+  }
+}

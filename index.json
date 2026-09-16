@@ -10,7 +10,11 @@
       "description": "Codex-Dream-Skin 随项目分发的红白演示主题。",
       "license": "MIT / generated project asset",
       "source_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "tags": ["原版", "红白", "亮色"],
+      "tags": [
+        "原版",
+        "红白",
+        "亮色"
+      ],
       "theme": "themes/dream-skin-original/theme.json",
       "image": "themes/dream-skin-original/image.png",
       "preview": "themes/dream-skin-original/preview.jpg",
@@ -25,7 +29,11 @@
       "description": "留出安静阅读区的浅色财神主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/caishen-lite",
-      "tags": ["原创", "财神", "浅色"],
+      "tags": [
+        "原创",
+        "财神",
+        "浅色"
+      ],
       "theme": "themes/caishen-lite/theme.json",
       "image": "themes/caishen-lite/image.png",
       "preview": "themes/caishen-lite/preview.jpg",
@@ -40,7 +48,11 @@
       "description": "红金高饱和、视觉表现更强的财神主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/caishen-max",
-      "tags": ["原创", "财神", "红金"],
+      "tags": [
+        "原创",
+        "财神",
+        "红金"
+      ],
       "theme": "themes/caishen-max/theme.json",
       "image": "themes/caishen-max/image.png",
       "preview": "themes/caishen-max/preview.jpg",
@@ -55,7 +67,11 @@
       "description": "强调低疲劳和高对比阅读的柔和财神主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/caishen-readable",
-      "tags": ["原创", "财神", "易读"],
+      "tags": [
+        "原创",
+        "财神",
+        "易读"
+      ],
       "theme": "themes/caishen-readable/theme.json",
       "image": "themes/caishen-readable/image.png",
       "preview": "themes/caishen-readable/preview.jpg",
@@ -70,7 +86,11 @@
       "description": "面向夜间增长、数据和出海运营场景的深色主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/export-night",
-      "tags": ["原创", "深色", "数据"],
+      "tags": [
+        "原创",
+        "深色",
+        "数据"
+      ],
       "theme": "themes/export-night/theme.json",
       "image": "themes/export-night/image.png",
       "preview": "themes/export-night/preview.jpg",
@@ -85,7 +105,11 @@
       "description": "适合增长、运营与商业分析的明亮全球化主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/global-founder-bright",
-      "tags": ["原创", "浅色", "商业"],
+      "tags": [
+        "原创",
+        "浅色",
+        "商业"
+      ],
       "theme": "themes/global-founder-bright/theme.json",
       "image": "themes/global-founder-bright/image.png",
       "preview": "themes/global-founder-bright/preview.jpg",
@@ -100,7 +124,11 @@
       "description": "右侧原创神话守卫与左侧暗场结合的专注主题。",
       "license": "MIT",
       "source_url": "https://github.com/ChannelerH/codex-skin-packs/tree/main/packs/mythic-guardian-noir",
-      "tags": ["原创", "暗黑", "神话"],
+      "tags": [
+        "原创",
+        "暗黑",
+        "神话"
+      ],
       "theme": "themes/mythic-guardian-noir/theme.json",
       "image": "themes/mythic-guardian-noir/image.png",
       "preview": "themes/mythic-guardian-noir/preview.jpg",
@@ -115,7 +143,11 @@
       "description": "由 Codex Snow Skin 转换的明亮冰原主题。",
       "license": "MIT",
       "source_url": "https://github.com/chaoran162/Codex-Snow-Skin",
-      "tags": ["衍生", "冰雪", "浅色"],
+      "tags": [
+        "衍生",
+        "冰雪",
+        "浅色"
+      ],
       "theme": "themes/codex-snow-skin/theme.json",
       "image": "themes/codex-snow-skin/image.png",
       "preview": "themes/codex-snow-skin/preview.jpg",
@@ -130,7 +162,11 @@
       "description": "由 Glass Vision 转换的银蓝水晶星轨主题。",
       "license": "MIT",
       "source_url": "https://github.com/IronMind15/glass-vision-skin",
-      "tags": ["衍生", "银蓝", "星空"],
+      "tags": [
+        "衍生",
+        "银蓝",
+        "星空"
+      ],
       "theme": "themes/glass-vision/theme.json",
       "image": "themes/glass-vision/image.png",
       "preview": "themes/glass-vision/preview.jpg",
@@ -145,7 +181,11 @@
       "description": "深蓝夜幕与青紫极光交织的程序化抽象主题。",
       "license": "MIT",
       "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-midnight-aurora",
-      "tags": ["MIT", "抽象", "极光"],
+      "tags": [
+        "MIT",
+        "抽象",
+        "极光"
+      ],
       "theme": "themes/preset-midnight-aurora/theme.json",
       "image": "themes/preset-midnight-aurora/image.jpg",
       "preview": "themes/preset-midnight-aurora/preview.jpg",
@@ -160,7 +200,11 @@
       "description": "暖金与琥珀光晕构成的程序化抽象主题。",
       "license": "MIT",
       "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-amber-dusk",
-      "tags": ["MIT", "抽象", "暖色"],
+      "tags": [
+        "MIT",
+        "抽象",
+        "暖色"
+      ],
       "theme": "themes/preset-amber-dusk/theme.json",
       "image": "themes/preset-amber-dusk/image.jpg",
       "preview": "themes/preset-amber-dusk/preview.jpg",
@@ -175,7 +219,11 @@
       "description": "墨绿晨雾与柔和光晕构成的程序化抽象主题。",
       "license": "MIT",
       "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-forest-mist",
-      "tags": ["MIT", "抽象", "自然"],
+      "tags": [
+        "MIT",
+        "抽象",
+        "自然"
+      ],
       "theme": "themes/preset-forest-mist/theme.json",
       "image": "themes/preset-forest-mist/image.jpg",
       "preview": "themes/preset-forest-mist/preview.jpg",
@@ -190,7 +238,11 @@
       "description": "青色与品红光带构成的高对比赛博主题。",
       "license": "MIT",
       "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-cyber-neon",
-      "tags": ["MIT", "抽象", "赛博"],
+      "tags": [
+        "MIT",
+        "抽象",
+        "赛博"
+      ],
       "theme": "themes/preset-cyber-neon/theme.json",
       "image": "themes/preset-cyber-neon/image.jpg",
       "preview": "themes/preset-cyber-neon/preview.jpg",
@@ -205,12 +257,492 @@
       "description": "柔和粉色晨光构成的明亮程序化抽象主题。",
       "license": "MIT",
       "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-sakura-dawn",
-      "tags": ["MIT", "抽象", "浅色"],
+      "tags": [
+        "MIT",
+        "抽象",
+        "浅色"
+      ],
       "theme": "themes/preset-sakura-dawn/theme.json",
       "image": "themes/preset-sakura-dawn/image.jpg",
       "preview": "themes/preset-sakura-dawn/preview.jpg",
       "theme_sha256": "05190d4e4248d2f71993a1732ff857a7689cdd355e7fa588406cdcd573919699",
       "image_sha256": "ae63c486b5a211fc818348896ce947e569d8d300987640817021816a4ebd07ab"
+    },
+    {
+      "id": "iron-reactor-particle",
+      "name": "Iron Reactor Particle",
+      "version": "1.0.0",
+      "author": "sks-curry",
+      "description": "暗色反应堆机库、青金粒子装甲与分层半透明面板主题。",
+      "license": "CC BY 4.0 / MIT",
+      "source_url": "https://github.com/sks-curry/iron-reactor-codex-skin",
+      "tags": [
+        "原创",
+        "暗色",
+        "科幻",
+        "粒子"
+      ],
+      "theme": "themes/iron-reactor-particle/theme.json",
+      "image": "themes/iron-reactor-particle/image.png",
+      "preview": "themes/iron-reactor-particle/preview.jpg",
+      "theme_sha256": "968384479b5b337e1fd045872b0b0c4a7117ebef816f857a4991fdfc92e42100",
+      "image_sha256": "2409a351c91df663cb17690db4bf088d93e7d5ccfdf04e206a36acb323b85465"
+    },
+    {
+      "id": "dreamskin-blush-garden",
+      "name": "粉系定制",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "柔粉玫瑰与轻盈花瓣，让工作台保持温柔明亮。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-blush-garden/theme.json",
+      "image": "themes/dreamskin-blush-garden/image.png",
+      "preview": "themes/dreamskin-blush-garden/preview.jpg",
+      "theme_sha256": "f1ece52ef2078fe43252b8439dd6371b92110f0cb998a088192d17ce85a6ccf5",
+      "image_sha256": "761ccedd2420501e3e0e7236270b3141d7237043ffa6202abfbc96d6bf2a75d3"
+    },
+    {
+      "id": "dreamskin-prosperity-mode",
+      "name": "财神打工版",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "朱砂红与鎏金意象，为今天的项目添一点好彩头。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-prosperity-mode/theme.json",
+      "image": "themes/dreamskin-prosperity-mode/image.png",
+      "preview": "themes/dreamskin-prosperity-mode/preview.jpg",
+      "theme_sha256": "5ef0acf5316ffb9c65dde568e4f7ba093269f2be469b4ee64fb4a71c8054533e",
+      "image_sha256": "5cc812d079d76187df636548480316749446b15eacd8a9059eea4b1fd1014588"
+    },
+    {
+      "id": "dreamskin-red-horizon",
+      "name": "红白科幻",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "克制的红白未来地平线，适合清晰、专注的工作节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-red-horizon/theme.json",
+      "image": "themes/dreamskin-red-horizon/image.png",
+      "preview": "themes/dreamskin-red-horizon/preview.jpg",
+      "theme_sha256": "8cc4289962869fce3567db8dd5168cb26e0102202317a11c92a4c07851c0db5a",
+      "image_sha256": "d548117583e8584116bfbc6e64c1a1c38773ba06e1ce7fabcbc84caa4a6d6996"
+    },
+    {
+      "id": "dreamskin-quiet-paper",
+      "name": "清透定制",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "象牙白、鼠尾草绿与纸鹤，留出安静的思考空间。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-quiet-paper/theme.json",
+      "image": "themes/dreamskin-quiet-paper/image.png",
+      "preview": "themes/dreamskin-quiet-paper/preview.jpg",
+      "theme_sha256": "53b53a5813bbf58eb0983ec5dfd2872b42c6f72ad5809d2adbb0a06fe338dd80",
+      "image_sha256": "38516e8020f2715734f381b6413b5c20e0eac7517d9ef38c9a7e0b89727be56f"
+    },
+    {
+      "id": "dreamskin-idea-engine",
+      "name": "灵感小宇宙",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "青蓝、珊瑚与明黄碰撞，为快速原型补充能量。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-idea-engine/theme.json",
+      "image": "themes/dreamskin-idea-engine/image.png",
+      "preview": "themes/dreamskin-idea-engine/preview.jpg",
+      "theme_sha256": "5ef66bf69207194272457d13c220c1d0b89f6abea5ec2d42f6ca3ab30adc0218",
+      "image_sha256": "4a4db3d0f8583413bfa31e651bf67b5532fe596b2c1554492eb464c851a479a7"
+    },
+    {
+      "id": "dreamskin-prism-night",
+      "name": "紫夜限定",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "蓝紫星夜、晶体蝴蝶与微光轨道，适合沉浸工作。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-prism-night/theme.json",
+      "image": "themes/dreamskin-prism-night/image.png",
+      "preview": "themes/dreamskin-prism-night/preview.jpg",
+      "theme_sha256": "785adf43f878f3b2216f4777ad511a907e7c8b9bd69f554b5333bbabb5904d54",
+      "image_sha256": "933f46678605340dccf14421842cc12b7fc090cf816d4836a7434428c8e30ac5"
+    },
+    {
+      "id": "dreamskin-cyan-rhythm",
+      "name": "青蓝律动",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "青粉电子音浪与全息舞台，保持轻快而明亮的节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-cyan-rhythm/theme.json",
+      "image": "themes/dreamskin-cyan-rhythm/image.png",
+      "preview": "themes/dreamskin-cyan-rhythm/preview.jpg",
+      "theme_sha256": "e0209f909d32835459525d98df25b874996eeda88bd3e29d6a79aa1307b7f26e",
+      "image_sha256": "9dcec4069c1cb70f674f4b595280714de8f9dcdc322b2db762100a26ef82b13a"
+    },
+    {
+      "id": "dreamskin-golden-stage",
+      "name": "舞台黑金",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "哑光黑、香槟金与舞台光束，让视觉焦点更集中。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "场景",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-golden-stage/theme.json",
+      "image": "themes/dreamskin-golden-stage/image.png",
+      "preview": "themes/dreamskin-golden-stage/preview.jpg",
+      "theme_sha256": "b8c7c9299a5f53cacf622074b309697edb944deed313478c9fc350bd81adf2cd",
+      "image_sha256": "5f9a643d2e867b4d0672feb765705712bdcbfc61392da1ab7a5611bbea585f2f"
+    },
+    {
+      "id": "dreamskin-deep-work-mode",
+      "name": "深度编码",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为长时间编码保留清晰层次。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-deep-work-mode/theme.json",
+      "image": "themes/dreamskin-deep-work-mode/image.png",
+      "preview": "themes/dreamskin-deep-work-mode/preview.jpg",
+      "theme_sha256": "53099700be1633aa6ee6ad7d391593db10c4ac347bbd434ceafa7e748d73cf4f",
+      "image_sha256": "fe50ede7448c20df0b7bc7269761fcc5fcb3a9e7554da738cd784bcabf54c666"
+    },
+    {
+      "id": "dreamskin-product-clarity",
+      "name": "产品策划",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "从问题、路径到决策的结构化工作台。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-product-clarity/theme.json",
+      "image": "themes/dreamskin-product-clarity/image.png",
+      "preview": "themes/dreamskin-product-clarity/preview.jpg",
+      "theme_sha256": "c0ecd8b045741db841dfa7aac0627bd64de279f1c45343ffadd7e218ad66deb6",
+      "image_sha256": "98e7e4e1229fc200f16ea37a0bcdf78cb5a2e892291ccb4388edb48a0e3f34dd"
+    },
+    {
+      "id": "dreamskin-visual-studio",
+      "name": "视觉设计",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为构图、色彩与细节判断保持敏锐。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-visual-studio/theme.json",
+      "image": "themes/dreamskin-visual-studio/image.png",
+      "preview": "themes/dreamskin-visual-studio/preview.jpg",
+      "theme_sha256": "3748df67e12660a3a482150f0b71a9a210b41c8ff5d5e57ca3c3661bb2cbb8fc",
+      "image_sha256": "5e83bf172c49b0ee8d7e76f170d04f3c8bcb00d8f8e8d7f35fdc44449c90eb42"
+    },
+    {
+      "id": "dreamskin-signal-analysis",
+      "name": "数据洞察",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "在噪声中寻找稳定信号。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-signal-analysis/theme.json",
+      "image": "themes/dreamskin-signal-analysis/image.png",
+      "preview": "themes/dreamskin-signal-analysis/preview.jpg",
+      "theme_sha256": "f5793139591606e229d3640c927cc446c1b526370b9c0acba5e181fd7760764d",
+      "image_sha256": "09c288a9cf884056622e0351081e3b7a3aa9417a5528b6fdcd3a8a6c099ae9fa"
+    },
+    {
+      "id": "dreamskin-story-flow",
+      "name": "内容创作",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "让素材、节奏与叙事持续流动。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-story-flow/theme.json",
+      "image": "themes/dreamskin-story-flow/image.png",
+      "preview": "themes/dreamskin-story-flow/preview.jpg",
+      "theme_sha256": "dfa59c881e3e3cfb65903a698fb0407313d6c3ea1a2b8ca252a8bc4ad4cb41d5",
+      "image_sha256": "42e29ea96c0c512c0cddfefad4b7572f4a4a4431b64ba2a1cb98d679c50bf267"
+    },
+    {
+      "id": "dreamskin-delivery-rhythm",
+      "name": "项目推进",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "把依赖、里程碑和行动排成节奏。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-delivery-rhythm/theme.json",
+      "image": "themes/dreamskin-delivery-rhythm/image.png",
+      "preview": "themes/dreamskin-delivery-rhythm/preview.jpg",
+      "theme_sha256": "e834995b0f2b341497028adf45ff5508d41b872ee7cad3076ec40a10ca08df83",
+      "image_sha256": "185e663b1b9d9cbf248f560ba1d95cc0220fc534a616fbf7c911af74fbdbe7ac"
+    },
+    {
+      "id": "dreamskin-scholar-archive",
+      "name": "研究写作",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "为阅读、考据与长文组织保留沉静。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-scholar-archive/theme.json",
+      "image": "themes/dreamskin-scholar-archive/image.png",
+      "preview": "themes/dreamskin-scholar-archive/preview.jpg",
+      "theme_sha256": "fea00acb938a736d53ee49661f19d9e053898455e2aa2218011f38d2c50f1cc4",
+      "image_sha256": "790edf2cc3cb3bda5855eac2f8bf5c9caed990d8e639ac17cd66f6ad30f24a09"
+    },
+    {
+      "id": "dreamskin-reliability-watch",
+      "name": "运维值守",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "稳定、警觉的持续观测模式。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "岗位",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-reliability-watch/theme.json",
+      "image": "themes/dreamskin-reliability-watch/image.png",
+      "preview": "themes/dreamskin-reliability-watch/preview.jpg",
+      "theme_sha256": "2f6d445c9968901c1da4d1a8bc9d09857e07eca37570802b910c4266bd1eb36b",
+      "image_sha256": "f940956b9fd94c6e079c9e2c4b2b087e8fce95407fa33206352e8cb7e314c0af"
+    },
+    {
+      "id": "dreamskin-cloud-ascent",
+      "name": "云上仙途",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "云海灵脉中的东方修行之旅。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-cloud-ascent/theme.json",
+      "image": "themes/dreamskin-cloud-ascent/image.png",
+      "preview": "themes/dreamskin-cloud-ascent/preview.jpg",
+      "theme_sha256": "e939df561f00a22ed045b2f79b6aefed4d9de1edff29df8e94a50468505d6105",
+      "image_sha256": "1b59f16ead4dac2cf51484afba7669446017a992198fe0ad596308c6687c648e"
+    },
+    {
+      "id": "dreamskin-mountain-sea",
+      "name": "山海异闻",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "古代博物纹理与山海幻想。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-mountain-sea/theme.json",
+      "image": "themes/dreamskin-mountain-sea/image.png",
+      "preview": "themes/dreamskin-mountain-sea/preview.jpg",
+      "theme_sha256": "ff69dba308d88fb21a210a7a3015a7f1949b48ac248f25957b4c1e2a7f2a3fd8",
+      "image_sha256": "4c8a59386408f487708eea01b6fb45d1aee412f3d135d95d04e2bd689954c1bb"
+    },
+    {
+      "id": "dreamskin-ink-horizon",
+      "name": "墨影江湖",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "水墨留白与凌厉刀光。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-ink-horizon/theme.json",
+      "image": "themes/dreamskin-ink-horizon/image.png",
+      "preview": "themes/dreamskin-ink-horizon/preview.jpg",
+      "theme_sha256": "ad68253b2394a6272c4dcc497e8767c67d0a3969dd327242611a2cb0d9437f37",
+      "image_sha256": "25f02d34ef17a54be6d0cf2688345facb4e2f872af307c341fad1180444095fb"
+    },
+    {
+      "id": "dreamskin-changan-mechanica",
+      "name": "长安机关",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "盛唐幻想与精密机关。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-changan-mechanica/theme.json",
+      "image": "themes/dreamskin-changan-mechanica/image.png",
+      "preview": "themes/dreamskin-changan-mechanica/preview.jpg",
+      "theme_sha256": "03339412fabb52dafa8ce2f1141ee20f527eda3ff1664ce6c3dca2e4c3100384",
+      "image_sha256": "7127eaf611cf6025d95ddef7f37e4659c786b2d442c6d8f5aed4068f975cafd8"
+    },
+    {
+      "id": "dreamskin-orbital-forge",
+      "name": "星穹机甲",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "东方科幻与重型机械结构。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-orbital-forge/theme.json",
+      "image": "themes/dreamskin-orbital-forge/image.png",
+      "preview": "themes/dreamskin-orbital-forge/preview.jpg",
+      "theme_sha256": "cc59214ea1069d351363bb04824870f9d3136c1ff3564ed36582ab52ecae7938",
+      "image_sha256": "af0e66dfc05a7ef0aabe1b79ac64de5c7bfb69da00d4c0c57fbd25a8ee2c7c74"
+    },
+    {
+      "id": "dreamskin-spirit-trail",
+      "name": "灵宠奇旅",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "自然灵性与温暖轻冒险。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "浅色"
+      ],
+      "theme": "themes/dreamskin-spirit-trail/theme.json",
+      "image": "themes/dreamskin-spirit-trail/image.png",
+      "preview": "themes/dreamskin-spirit-trail/preview.jpg",
+      "theme_sha256": "2368f2d890012dd4f63d7da7d0db3c1f90e2e7e28b8656462a8645a9e8778e24",
+      "image_sha256": "0527e1f765bb3f7efe8e19f09d6fe503bb9b9956dfa3aac6d7a0abc6821c5ae3"
+    },
+    {
+      "id": "dreamskin-neon-night-watch",
+      "name": "霓虹巡夜",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "东方都市异能与夜行霓虹。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-neon-night-watch/theme.json",
+      "image": "themes/dreamskin-neon-night-watch/image.png",
+      "preview": "themes/dreamskin-neon-night-watch/preview.jpg",
+      "theme_sha256": "8d00096e9e8b89b4f78243b31592bbd2a0132284aa54b002b8a4ca5a55f66006",
+      "image_sha256": "3c63726ca6a9d2e0e2621e541dbaf60849f38fce9af8c0649f085704754cba12"
+    },
+    {
+      "id": "dreamskin-scarlet-myth",
+      "name": "赤焰神话",
+      "version": "1.0.0",
+      "author": "axdlee / Codex Dream Skin contributors",
+      "description": "上古火纹与祭器质感。",
+      "license": "CC BY 4.0",
+      "source_url": "https://github.com/axdlee/Codex-Dream-Skin",
+      "tags": [
+        "原创",
+        "中国风",
+        "深色"
+      ],
+      "theme": "themes/dreamskin-scarlet-myth/theme.json",
+      "image": "themes/dreamskin-scarlet-myth/image.png",
+      "preview": "themes/dreamskin-scarlet-myth/preview.jpg",
+      "theme_sha256": "64a4a28492a8943adf123098446c7cef6b9f1fcf132e9060542f4971c5e14ade",
+      "image_sha256": "996d9f93892189901f529cbd50b1fe505f1d3fe12f7350b676b4c37f19501457"
     }
   ]
 }

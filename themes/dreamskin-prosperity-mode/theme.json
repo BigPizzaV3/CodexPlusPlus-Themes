@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-prosperity-mode",
+  "name": "财神打工版",
+  "stylePreset": "dreamskin-prosperity-mode",
+  "brandSubtitle": "PROSPERITY MODE",
+  "tagline": "朱砂红与鎏金意象，为今天的项目添一点好彩头。",
+  "projectPrefix": "开运项目 ·",
+  "projectLabel": "选择开运项目",
+  "statusText": "PROSPERITY ONLINE",
+  "quote": "BUILD VALUE TODAY",
+  "colors": {
+    "background": "#fff7e8",
+    "panel": "#fbe9d3",
+    "panelAlt": "#fbe9d3",
+    "accent": "#d43d2f",
+    "accentAlt": "#e5b64f",
+    "secondary": "#d7a838",
+    "highlight": "#9f251f",
+    "text": "#39170f",
+    "muted": "#7c5b43",
+    "line": "#e5b64f"
+  }
+}

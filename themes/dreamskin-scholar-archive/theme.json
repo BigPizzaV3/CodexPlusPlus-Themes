@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-scholar-archive",
+  "name": "研究写作",
+  "stylePreset": "dreamskin-scholar-archive",
+  "brandSubtitle": "SCHOLAR ARCHIVE",
+  "tagline": "为阅读、考据与长文组织保留沉静。",
+  "projectPrefix": "研究项目 ·",
+  "projectLabel": "选择研究项目",
+  "statusText": "ARCHIVE SESSION ONLINE",
+  "quote": "FOLLOW THE EVIDENCE",
+  "colors": {
+    "background": "#18201b",
+    "panel": "#242d27",
+    "panelAlt": "#343d36",
+    "accent": "#879b75",
+    "accentAlt": "#c4a362",
+    "secondary": "#78949a",
+    "highlight": "#8d4e54",
+    "text": "#f7f4e9",
+    "muted": "#bdb8a7",
+    "line": "#879b75"
+  }
+}

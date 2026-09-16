@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-mountain-sea",
+  "name": "山海异闻",
+  "stylePreset": "dreamskin-mountain-sea",
+  "brandSubtitle": "MOUNTAIN SEA",
+  "tagline": "古代博物纹理与山海幻想。",
+  "projectPrefix": "异闻项目 ·",
+  "projectLabel": "选择异闻项目",
+  "statusText": "ANCIENT FIELD ONLINE",
+  "quote": "WONDER LIVES BEYOND THE MAP",
+  "colors": {
+    "background": "#182221",
+    "panel": "#24332f",
+    "panelAlt": "#354840",
+    "accent": "#4e9b7a",
+    "accentAlt": "#77b99a",
+    "secondary": "#39899c",
+    "highlight": "#a96b43",
+    "text": "#f1f6ec",
+    "muted": "#a6b9aa",
+    "line": "#4e9b7a"
+  }
+}

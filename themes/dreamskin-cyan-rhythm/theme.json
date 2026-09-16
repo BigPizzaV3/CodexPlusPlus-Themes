@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-cyan-rhythm",
+  "name": "青蓝律动",
+  "stylePreset": "dreamskin-cyan-rhythm",
+  "brandSubtitle": "CYAN RHYTHM",
+  "tagline": "青粉电子音浪与全息舞台，保持轻快而明亮的节奏。",
+  "projectPrefix": "音浪项目 ·",
+  "projectLabel": "选择音浪项目",
+  "statusText": "CYAN RHYTHM ONLINE",
+  "quote": "CODE IN RHYTHM",
+  "colors": {
+    "background": "#effcfb",
+    "panel": "#ddf4f2",
+    "panelAlt": "#ddf4f2",
+    "accent": "#2dd4d0",
+    "accentAlt": "#73e8df",
+    "secondary": "#f2a4dc",
+    "highlight": "#d668c0",
+    "text": "#16343a",
+    "muted": "#5b7f80",
+    "line": "#2dd4d0"
+  }
+}

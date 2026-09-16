@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-neon-night-watch",
+  "name": "霓虹巡夜",
+  "stylePreset": "dreamskin-neon-night-watch",
+  "brandSubtitle": "NEON NIGHT WATCH",
+  "tagline": "东方都市异能与夜行霓虹。",
+  "projectPrefix": "巡夜项目 ·",
+  "projectLabel": "选择巡夜项目",
+  "statusText": "NIGHT GRID ONLINE",
+  "quote": "KEEP WATCH THROUGH THE RAIN",
+  "colors": {
+    "background": "#090f19",
+    "panel": "#111b28",
+    "panelAlt": "#1b2938",
+    "accent": "#e33f48",
+    "accentAlt": "#f05bb4",
+    "secondary": "#37b8d0",
+    "highlight": "#6b4bd2",
+    "text": "#eefaff",
+    "muted": "#91a9b8",
+    "line": "#37b8d0"
+  }
+}

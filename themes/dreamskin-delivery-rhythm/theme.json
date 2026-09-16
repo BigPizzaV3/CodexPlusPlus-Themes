@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dreamskin-delivery-rhythm",
+  "name": "项目推进",
+  "stylePreset": "dreamskin-delivery-rhythm",
+  "brandSubtitle": "DELIVERY RHYTHM",
+  "tagline": "把依赖、里程碑和行动排成节奏。",
+  "projectPrefix": "交付项目 ·",
+  "projectLabel": "选择交付项目",
+  "statusText": "DELIVERY TRACK ONLINE",
+  "quote": "KEEP THE WORK MOVING",
+  "colors": {
+    "background": "#f3f6f7",
+    "panel": "#e7edef",
+    "panelAlt": "#e7edef",
+    "accent": "#2fa9a0",
+    "accentAlt": "#ef8b35",
+    "secondary": "#568da8",
+    "highlight": "#e66d3f",
+    "text": "#263036",
+    "muted": "#69777c",
+    "line": "#2fa9a0"
+  }
+}
